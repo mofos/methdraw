@@ -1,14 +1,19 @@
-# MethDraw - Enhanced tldraw with Custom Features
-
+# MethDraw - Studying Prototype
+## Inspired from OPEN_AI + KhanAcademy Demo
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=IvXZCocyU_M">
+    <img src="https://i.ytimg.com/vi/IvXZCocyU_M/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgXihQMA8=&rs=AOn4CLA0U59Jf6USD41T95JLIqmQnV0AsQ" alt="Video Thumbnail" width="50%" />
+  </a>
+</div>
 This repository contains enhanced tldraw examples with custom features including:
-
 ## Features
-- **AnimatedLoader**: Custom loading animations
-- **ChatOverlay**: Interactive chat interface overlay
-- **MarkdownRenderer**: Markdown rendering capabilities
-- **ScreenAnalysis**: Screen analysis functionality
-- **UI Overrides**: Custom UI customizations
-- **Server Integration**: Custom server implementation
+<img src="https://media.discordapp.net/attachments/749909092574953473/1417012970793205842/Screenshot_2025-09-15_at_4.22.34_AM.png" alt="Video Thumbnail" width="50%" />
+1. screen share with AI
+2. canvas to draw or write
+3. chat interface
+4. long context or memory
+5. runs in API and vibes
+
 
 ## Getting Started
 
@@ -24,19 +29,6 @@ This repository contains enhanced tldraw examples with custom features including
 
 3. Open your browser and navigate to the examples to see the enhanced features.
 
-## Custom Features
-
-### AnimatedLoader
-A custom loading component with smooth animations.
-
-### ChatOverlay
-An interactive chat interface that can be overlaid on the canvas.
-
-### MarkdownRenderer
-Renders markdown content within the tldraw interface.
-
-### ScreenAnalysis
-Analyzes screen content and provides insights.
 
 ## License
 
