@@ -19,12 +19,17 @@ This repository contains enhanced tldraw examples with custom features including
 
 ## Getting Started
 
-1. Install dependencies:
+1. Add an API KEY
+   methdraw/examples/src/examplepage.tsx
+    ```bash
+		openAIApiKey: '***',
+    ```
+2. Install dependencies:
    ```bash
    yarn install
    ```
 
-2. Start the development server:
+3. Start the development server:
    ```bash
    yarn dev
    ```
