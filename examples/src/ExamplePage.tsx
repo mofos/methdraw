@@ -115,8 +115,7 @@ export function CustomUI() {
 
 	useEffect(() => {
 		chatModel.current = new ChatOpenAI({
-			openAIApiKey:
-				'YOUR_OPENAI_API_KEY_HERE-PfArwDubLmflhYJ0p81hJaqU66qdKqpSp_HiPEqjMqztVVi8id8NFtQhlp1J_ClYYZwz7u6oazT3BlbkFJdovHflP8kxAiDp9GaIMdGmBSPRxwtkPsDtTcr6C1ufOcxb86lCBBGoIVKVtuxCU5HwS-Si31YA',
+			openAIApiKey: '***',
 			modelName: 'gpt-4.1-mini',
 			temperature: 0.7,
 			streaming: true,
